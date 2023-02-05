@@ -1,6 +1,7 @@
  .u-section-1 {
   background-image: url("images/wedding-g3daa2573c_1920.jpg");
   min-height: 608px;
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-group-1 {
@@ -44,7 +45,6 @@
 
 @media (max-width: 1199px) {
    .u-section-1 {
-    background-position: 50% 50%;
     min-height: 501px;
   }
 
@@ -84,6 +84,7 @@
 } .u-section-2 {
   background-image: url("images/wedding-g3daa2573c_1920.jpg");
   min-height: 608px;
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-group-1 {
@@ -126,7 +127,6 @@
 
 @media (max-width: 1199px) {
    .u-section-2 {
-    background-position: 50% 50%;
     min-height: 501px;
   }
 
@@ -201,6 +201,7 @@
   }
 } .u-section-3 {
   background-image: url("images/wedding-g3daa2573c_1920.jpg");
+  background-position: 50% 50%;
   min-height: 467px;
 }
 
@@ -246,7 +247,6 @@
 
 @media (max-width: 1199px) {
    .u-section-3 {
-    background-position: 50% 50%;
     min-height: 385px;
   }
 }
@@ -289,11 +289,16 @@
 
 @media (max-width: 575px) {
    .u-section-3 {
-    min-height: 568px;
+    min-height: 569px;
   }
 
   .u-section-3 .u-group-1 {
+    margin-bottom: 0;
     min-height: 567px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 0;
   }
 
   .u-section-3 .u-text-2 {
@@ -301,10 +306,6 @@
     line-height: 1;
     margin-left: 0;
     margin-right: 0;
-  }
-
-  .u-section-3 .u-shape-1 {
-    margin-top: 80px;
   }
 }.u-section-4 .u-sheet-1 {
   min-height: 225px;
