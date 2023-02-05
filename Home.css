@@ -289,16 +289,17 @@
 
 @media (max-width: 575px) {
    .u-section-3 {
-    min-height: 569px;
+    min-height: 567px;
   }
 
   .u-section-3 .u-group-1 {
+    margin-top: 0;
     margin-bottom: 0;
     min-height: 567px;
   }
 
   .u-section-3 .u-text-1 {
-    margin-top: 0;
+    margin-top: 80px;
   }
 
   .u-section-3 .u-text-2 {
@@ -941,9 +942,9 @@
 }
 
 .u-section-7 .u-accordion-link-1 {
-  font-weight: 700;
   letter-spacing: 0px;
   background-image: none;
+  font-weight: 700;
   padding: 7px 20px;
 }
 
